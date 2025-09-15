@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+}
+
+body {
+    border: solid red;
+}
+
+.Image-fox {
+    border: 2px solid rgb(218, 180, 12);
+    border-width: 10px 5px;
+    background-size: 300px;
+    border-style: inset;
+    display: flex;
+    justify-self: center;
+}
+
+.fox-wiki {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
+    border: 5px dashed rgb(197, 142, 22);
+    height: 200px;
+    width: 310px;
+    overflow: scroll;
+    flex-wrap: wrap;
+    justify-self: center;
+}
